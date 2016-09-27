@@ -1,12 +1,12 @@
-# Title - Epicodus C# Project Template
+# Library Catalog
 
-#### Short Description
+#### 
 
-#### Author(s)
+#### Charles Ewel and Ben Logue
 
 ## Description
 
-A basic project template for C# webapps using Nancy/Razor, XUnit, and MSSQL.
+This application allows a user to add books to a library catalog, search, check out books to patrons and generates due dates. Checkout history is viewable on patron page and the past due books of all patrons are viewable on a librarian page. 
 
 ## Technologies Used
 
@@ -42,4 +42,4 @@ None
 
 Licensed under the MIT License.
 
-&copy;
+&copy; Charles Ewel & Ben Logue
